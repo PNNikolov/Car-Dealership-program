@@ -1,2 +1,2 @@
 # Python-Program
-A simple program that allows the user to choose and buy cars
+Program created on Python, that allows the user to choose and buy cars.
